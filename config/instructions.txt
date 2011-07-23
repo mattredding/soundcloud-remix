@@ -1,11 +1,10 @@
-<!-- Erase me and insert your own Remix instructions, including stems, deadlines, etc. -->
-
-<h1>Remix SoundCloud</h1>
+<h1>Control Freak - Dirty Bomb Remix Contest</h1>
 
 <p>
 
-This is an example application showing the default configuration of <a href="http://github.com/soundcloud/soundcloud-remix">SoundCloud-Remix</a>, an app that allows you to easily throw a SoundCloud remix competition on your website.<br>
+Up the filth & bomb the bass challenge.<br>
+Remix and upload Dirty Bomb, then get your friends to vote for you.
 <br>
-For further instructions and documentation please visit <a href="http://github.com/soundcloud/soundcloud-remix">our github</a>.
+</a>
 
 </p>
