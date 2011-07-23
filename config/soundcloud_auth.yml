@@ -1,17 +1,18 @@
 development:
   key: 057cb4072f7274c2a60cf381a0de8266
   secret: 4a381ce3511bc8e92dc8e12a3f2ab8f7
-  base_url: "http://api.sandbox-soundcloud.com"
+  # base_url: "http://api.sandbox-soundcloud.com"
+  base_url: "http://api.soundcloud.com"
   remember_for: 0 # do not change
-  oauth_callback: "http://example.com:3000/oauth_callback"
+  oauth_callback: "http://soundcloud-remix.dev/oauth_callback"
 test:
   key: testkey
   secret: testsecret
   base_url: "http://api.soundcloud.com"
   remember_for: 0 # do not change
-  oauth_callback: "http://localhost:3000/oauth_callback"
+  oauth_callback: "http://cf-remix.heroku.com/oauth_callback"
 production:
   key: prokey
   secret: prosecret
-  base_url: "http://api.soundcloud.com"
+  base_url: "http://cf-remix.heroku.com/oauth_callback"
   remember_for: 0 # do not change

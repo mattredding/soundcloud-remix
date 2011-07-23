@@ -8,11 +8,11 @@ description: "Control Freak - Dirty Bomb Remix Contest. Up the filth & bomb the 
 terms: 
 
 # URL to user on SoundCloud that will administer the remix app, e.g. http://soundcloud.com/leemartin
-admin: 
+admin: http://soundcloud.com/control-freak
 
 # URL to group on SoundCloud where remixes will be added, e.g. http://soundcloud.com/groups/soundcloud-remix
 # You can start a new group here: http://soundcloud.com/groups/new
-group: 
+group: http://soundcloud.com/groups/control-freak-dirty-bomb-remix-contest
 
 # These options customize certain aspects of the embedded SoundCloud players.
 # You can view a full list of available parameters here: http://wiki.github.com/soundcloud/Widget-JS-API/widget-options
