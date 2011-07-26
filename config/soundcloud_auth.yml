@@ -6,13 +6,14 @@ development:
   remember_for: 0 # do not change
   oauth_callback: "http://soundcloud-remix.dev/oauth_callback"
 test:
-  key: testkey
-  secret: testsecret
-  base_url: "http://api.soundcloud.com"
+  key: ddf38356604adc5b047a36477c2c5ff5
+  secret: ea857edc47e14f8e19e0190b6aa9c6f9
+  base_url: "http://cf-remix.heroku.com/oauth_callback"
   remember_for: 0 # do not change
   oauth_callback: "http://cf-remix.heroku.com/oauth_callback"
 production:
-  key: prokey
-  secret: prosecret
+  key: ddf38356604adc5b047a36477c2c5ff5
+  secret: ea857edc47e14f8e19e0190b6aa9c6f9
   base_url: "http://cf-remix.heroku.com/oauth_callback"
   remember_for: 0 # do not change
+  oauth_callback: "http://cf-remix.heroku.com/oauth_callback"
